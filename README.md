@@ -7,13 +7,13 @@
     <a href="https://python.org">
     <img src="https://img.shields.io/badge/Python-3.7-green.svg">
   </a>
-  <a href="https://github.com/PushpenderIndia/KratosKnife/blob/master/LICENSE">
+  <a href="https://github.com/trhacknon/KratosKnife/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
   </a>
-  <a href="https://github.com/PushpenderIndia/KratosKnife/releases">
+  <a href="https://github.com/trhacknon/KratosKnife/releases">
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
   </a>
-    <a href="https://github.com/PushpenderIndia/KratosKnife">
+    <a href="https://github.com/trhacknon/KratosKnife">
     <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
   </a>
 </p>
@@ -107,7 +107,7 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. YOU MAY USE THIS
 $ Install latest python 3.x
 
 # Clone this repository
-$ git clone https://github.com/PushpenderIndia/KratosKnife.git
+$ git clone https://github.com/trhacknon/KratosKnife.git
 
 # Go into the repository
 $ cd KratosKnife/Botnet-Generator
@@ -160,7 +160,7 @@ $ python Generator.py -s localhost/panel -o output_file_name --icon icon/exe.ico
 
 ## Contributors
 
-* Panel Files are contributed by [BlackHacker511](https://github.com/BlackHacker511)
+* Panel Files are contributed by [trhacknon](https://github.com/trhacknon)
 
 ## TODO
 
